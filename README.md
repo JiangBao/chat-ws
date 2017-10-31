@@ -1,2 +1,2 @@
 # chat-ws
-a chat demo use ws
+a chat demo base on websocket

@@ -1,0 +1,24 @@
+{
+  "name": "chat-ws",
+  "version": "1.0.0",
+  "description": "a chat room base on ws,koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiangBao/chat-ws.git"
+  },
+  "keywords": [
+    "chat",
+    "koa",
+    "ws"
+  ],
+  "author": "JiangBao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiangBao/chat-ws/issues"
+  },
+  "homepage": "https://github.com/JiangBao/chat-ws#readme"
+}
